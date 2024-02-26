@@ -9,7 +9,7 @@ Antes de executar o projeto, certifique-se de ter as seguintes dependências ins
 Conta no Azure com a Detecção de Faces habilitada.
 Configuração.
 Clone este repositório:
-{% filename %}command-line{% endfilename %}
+
   $ git clone https://github.com/danielmattos91/azure.ai.vision/
   $ cd azure.ai.vision
 
