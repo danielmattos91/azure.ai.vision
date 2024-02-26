@@ -1,6 +1,6 @@
 
 # Laboratório Azure AI Vision - Detecção de Faces
-Este repositório contém um projeto de laboratório que utiliza o Azure AI Vision para realizar a detecção de faces em imagens. O objetivo do projeto é demonstrar como integrar a API de Detecção de Faces do Azure com o uso de Python.
+Este repositório contém um projeto de laboratório que utiliza o Azure AI Vision para realizar a detecção de faces em imagens. O objetivo do projeto é demonstrar como integrar a API de Detecção de Faces do Azure.
 
 **Pré-requisitos**
 Antes de executar o projeto, certifique-se de ter as seguintes dependências instaladas:
@@ -13,7 +13,7 @@ Clone este repositório:
   $ git clone https://github.com/danielmattos91/azure.ai.vision/
   $ cd azure.ai.vision
 
-O laboratório utiliza 5 imagens localizadas na pasta outputs/ para realizar a detecção de faces. Execute o script principal:
+O laboratório utiliza 5 imagens localizadas na pasta outputs/ para realizar a detecção de faces.
 
 
 
